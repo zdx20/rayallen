@@ -6,6 +6,7 @@ public class Egit {
 
 		System.out.println("nihao,egit");
 		System.out.println("更新2");
+		System.out.println("更新1");
 
 	}
 
